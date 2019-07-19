@@ -43,6 +43,6 @@
 * [References](README.md#references)
 * [Appendices](README.md#appendices)
   * [Appendix A: Account State vs UTXOs](README.md#appendix-a)
-  * [Appendix B: DEX vs CEX](README.md#appendix-b)
-  * [Appendix C: how to define game assets on Ethereum](README.md#appendix-c)
+  * [Appendix B: how to define game assets on Ethereum](README.md#appendix-b)
+  * [Appendix C: DEX vs CEX](README.md#appendix-c)
 * [Risks](README.md#risks)

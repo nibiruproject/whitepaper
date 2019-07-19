@@ -43,6 +43,6 @@
 * [参考文献](README.md#references)
 * [付録](README.md#appendices)
   * [付録 A: Account State vs UTXOs](README.md#appendix-a)
-  * [付録 B: DEX vs CEX](README.md#appendix-b)
-  * [付録 C: Ethereum上でのgame asetsの表現の仕方](README.md#appendix-c)
+  * [付録 B: Ethereum上でのgame asetsの表現の仕方](README.md#appendix-b)
+  * [付録 C: DEX vs CEX](README.md#appendix-c)
 * [注意](README.md#risks)
